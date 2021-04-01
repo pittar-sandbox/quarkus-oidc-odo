@@ -4,8 +4,8 @@ kind: Service
 metadata:
   annotations:
     app.quarkus.io/vcs-url: https://github.com/masauve/quarkus-oidc-odo.git
-    app.quarkus.io/build-timestamp: 2021-04-01 - 10:50:35 +0000
-    app.quarkus.io/commit-id: 48a01c0f93dedbb5a0dbc7ee3d176132b434411f
+    app.quarkus.io/build-timestamp: 2021-04-01 - 10:56:43 +0000
+    app.quarkus.io/commit-id: 92caa64f9fbb87a6b8da77b6e36d091154ab4527
   labels:
     app.kubernetes.io/name: security-openid-connect-quickstart
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -25,8 +25,8 @@ kind: Deployment
 metadata:
   annotations:
     app.quarkus.io/vcs-url: https://github.com/masauve/quarkus-oidc-odo.git
-    app.quarkus.io/build-timestamp: 2021-04-01 - 10:50:35 +0000
-    app.quarkus.io/commit-id: 48a01c0f93dedbb5a0dbc7ee3d176132b434411f
+    app.quarkus.io/build-timestamp: 2021-04-01 - 10:56:43 +0000
+    app.quarkus.io/commit-id: 92caa64f9fbb87a6b8da77b6e36d091154ab4527
   labels:
     app.kubernetes.io/name: security-openid-connect-quickstart
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -41,8 +41,8 @@ spec:
     metadata:
       annotations:
         app.quarkus.io/vcs-url: https://github.com/masauve/quarkus-oidc-odo.git
-        app.quarkus.io/build-timestamp: 2021-04-01 - 10:50:35 +0000
-        app.quarkus.io/commit-id: 48a01c0f93dedbb5a0dbc7ee3d176132b434411f
+        app.quarkus.io/build-timestamp: 2021-04-01 - 10:56:43 +0000
+        app.quarkus.io/commit-id: 92caa64f9fbb87a6b8da77b6e36d091154ab4527
       labels:
         app.kubernetes.io/name: security-openid-connect-quickstart
         app.kubernetes.io/version: 1.0.0-SNAPSHOT
